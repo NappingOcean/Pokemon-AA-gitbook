@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://NappingOcean.github.io'
+url:              'https://nappingocean.github.io'
 baseurl:          '/Pokemon-AA-gitbook'
 rss:              RSS
 
