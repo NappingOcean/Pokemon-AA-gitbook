@@ -68,6 +68,14 @@ destination:      ./_site
 incremental:      false
 regenerate:       true
 
+sharing:
+  facebook: false
+  twitter: false
+  google: false
+  weibo: false
+  instapaper: false
+  vk: false
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
